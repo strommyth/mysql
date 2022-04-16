@@ -656,3 +656,254 @@ recovered pages: 0% 10% 30% 44% 54% 67% 77% 91% 100% (0.0 seconds); tables to fl
 2022-04-11 10:16:53 0 [Note] InnoDB: Loading buffer pool(s) from C:\xampp\mysql\data\ib_buffer_pool
 2022-04-11 10:16:53 0 [Note] Plugin 'FEEDBACK' is disabled.
 2022-04-11 10:16:53 0 [Note] Server socket created on IP: '::'.
+2022-04-11 11:43:10 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2022-04-11 11:43:10 0 [Note] InnoDB: Uses event mutexes
+2022-04-11 11:43:10 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2022-04-11 11:43:10 0 [Note] InnoDB: Number of pools: 1
+2022-04-11 11:43:10 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2022-04-11 11:43:10 0 [Note] InnoDB: Initializing buffer pool, total size = 16M, instances = 1, chunk size = 16M
+2022-04-11 11:43:10 0 [Note] InnoDB: Completed initialization of buffer pool
+2022-04-11 11:43:10 0 [Note] InnoDB: Starting crash recovery from checkpoint LSN=2345386
+2022-04-11 11:43:11 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2022-04-11 11:43:11 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2022-04-11 11:43:11 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2022-04-11 11:43:11 0 [Note] InnoDB: Setting file 'C:\xampp\mysql\data\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2022-04-11 11:43:11 0 [Note] InnoDB: File 'C:\xampp\mysql\data\ibtmp1' size is now 12 MB.
+2022-04-11 11:43:11 0 [Note] InnoDB: Waiting for purge to start
+2022-04-11 11:43:11 0 [Note] InnoDB: 10.4.22 started; log sequence number 2345395; transaction id 4262
+2022-04-11 11:43:11 0 [Note] InnoDB: Loading buffer pool(s) from C:\xampp\mysql\data\ib_buffer_pool
+2022-04-11 11:43:11 0 [Note] Plugin 'FEEDBACK' is disabled.
+2022-04-11 11:43:11 0 [Note] Server socket created on IP: '::'.
+2022-04-11 12:13:22 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2022-04-11 12:13:22 0 [Note] InnoDB: Uses event mutexes
+2022-04-11 12:13:22 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2022-04-11 12:13:22 0 [Note] InnoDB: Number of pools: 1
+2022-04-11 12:13:22 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2022-04-11 12:13:22 0 [Note] InnoDB: Initializing buffer pool, total size = 16M, instances = 1, chunk size = 16M
+2022-04-11 12:13:22 0 [Note] InnoDB: Completed initialization of buffer pool
+2022-04-11 12:13:22 0 [Note] InnoDB: Starting crash recovery from checkpoint LSN=2345404
+2022-04-11 12:13:22 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2022-04-11 12:13:22 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2022-04-11 12:13:22 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2022-04-11 12:13:22 0 [Note] InnoDB: Setting file 'C:\xampp\mysql\data\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2022-04-11 12:13:22 0 [Note] InnoDB: File 'C:\xampp\mysql\data\ibtmp1' size is now 12 MB.
+2022-04-11 12:13:22 0 [Note] InnoDB: Waiting for purge to start
+2022-04-11 12:13:22 0 [Note] InnoDB: 10.4.22 started; log sequence number 2345413; transaction id 4262
+2022-04-11 12:13:22 0 [Note] InnoDB: Loading buffer pool(s) from C:\xampp\mysql\data\ib_buffer_pool
+2022-04-11 12:13:22 0 [Note] Plugin 'FEEDBACK' is disabled.
+2022-04-11 12:13:22 0 [Note] Server socket created on IP: '::'.
+2022-04-11 13:03:24 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2022-04-11 13:03:24 0 [Note] InnoDB: Uses event mutexes
+2022-04-11 13:03:24 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2022-04-11 13:03:24 0 [Note] InnoDB: Number of pools: 1
+2022-04-11 13:03:24 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2022-04-11 13:03:24 0 [Note] InnoDB: Initializing buffer pool, total size = 16M, instances = 1, chunk size = 16M
+2022-04-11 13:03:24 0 [Note] InnoDB: Completed initialization of buffer pool
+2022-04-11 13:03:24 0 [Note] InnoDB: Starting crash recovery from checkpoint LSN=2345422
+2022-04-11 13:03:24 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2022-04-11 13:03:24 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2022-04-11 13:03:24 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2022-04-11 13:03:24 0 [Note] InnoDB: Setting file 'C:\xampp\mysql\data\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2022-04-11 13:03:24 0 [Note] InnoDB: File 'C:\xampp\mysql\data\ibtmp1' size is now 12 MB.
+2022-04-11 13:03:24 0 [Note] InnoDB: Waiting for purge to start
+2022-04-11 13:03:24 0 [Note] InnoDB: 10.4.22 started; log sequence number 2345431; transaction id 4262
+2022-04-11 13:03:24 0 [Note] InnoDB: Loading buffer pool(s) from C:\xampp\mysql\data\ib_buffer_pool
+2022-04-11 13:03:24 0 [Note] Plugin 'FEEDBACK' is disabled.
+2022-04-11 13:03:24 0 [Note] Server socket created on IP: '::'.
+2022-04-11 13:04:14 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2022-04-11 13:04:14 0 [Note] InnoDB: Uses event mutexes
+2022-04-11 13:04:14 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2022-04-11 13:04:14 0 [Note] InnoDB: Number of pools: 1
+2022-04-11 13:04:14 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2022-04-11 13:04:14 0 [Note] InnoDB: Initializing buffer pool, total size = 16M, instances = 1, chunk size = 16M
+2022-04-11 13:04:14 0 [Note] InnoDB: Completed initialization of buffer pool
+2022-04-11 13:04:14 0 [Note] InnoDB: Starting crash recovery from checkpoint LSN=2345440
+2022-04-11 13:04:14 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2022-04-11 13:04:14 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2022-04-11 13:04:14 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2022-04-11 13:04:14 0 [Note] InnoDB: Setting file 'C:\xampp\mysql\data\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2022-04-11 13:04:14 0 [Note] InnoDB: File 'C:\xampp\mysql\data\ibtmp1' size is now 12 MB.
+2022-04-11 13:04:14 0 [Note] InnoDB: Waiting for purge to start
+2022-04-11 13:04:14 0 [Note] InnoDB: 10.4.22 started; log sequence number 2345449; transaction id 4262
+2022-04-11 13:04:14 0 [Note] InnoDB: Loading buffer pool(s) from C:\xampp\mysql\data\ib_buffer_pool
+2022-04-11 13:04:14 0 [Note] Plugin 'FEEDBACK' is disabled.
+2022-04-11 13:04:14 0 [Note] Server socket created on IP: '::'.
+2022-04-11 13:59:06 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2022-04-11 13:59:06 0 [Note] InnoDB: Uses event mutexes
+2022-04-11 13:59:06 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2022-04-11 13:59:06 0 [Note] InnoDB: Number of pools: 1
+2022-04-11 13:59:06 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2022-04-11 13:59:06 0 [Note] InnoDB: Initializing buffer pool, total size = 16M, instances = 1, chunk size = 16M
+2022-04-11 13:59:06 0 [Note] InnoDB: Completed initialization of buffer pool
+2022-04-11 13:59:06 0 [Note] InnoDB: Starting crash recovery from checkpoint LSN=2345960
+2022-04-11 13:59:07 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2022-04-11 13:59:07 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2022-04-11 13:59:07 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2022-04-11 13:59:07 0 [Note] InnoDB: Setting file 'C:\xampp\mysql\data\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2022-04-11 13:59:07 0 [Note] InnoDB: File 'C:\xampp\mysql\data\ibtmp1' size is now 12 MB.
+2022-04-11 13:59:07 0 [Note] InnoDB: Waiting for purge to start
+2022-04-11 13:59:07 0 [Note] InnoDB: 10.4.22 started; log sequence number 2345969; transaction id 4262
+2022-04-11 13:59:07 0 [Note] InnoDB: Loading buffer pool(s) from C:\xampp\mysql\data\ib_buffer_pool
+2022-04-11 13:59:07 0 [Note] Plugin 'FEEDBACK' is disabled.
+2022-04-11 13:59:07 0 [Note] Server socket created on IP: '::'.
+2022-04-15 23:41:43 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2022-04-15 23:41:43 0 [Note] InnoDB: Uses event mutexes
+2022-04-15 23:41:43 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2022-04-15 23:41:43 0 [Note] InnoDB: Number of pools: 1
+2022-04-15 23:41:43 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2022-04-15 23:41:43 0 [Note] InnoDB: Initializing buffer pool, total size = 16M, instances = 1, chunk size = 16M
+2022-04-15 23:41:43 0 [Note] InnoDB: Completed initialization of buffer pool
+2022-04-15 23:41:43 0 [Note] InnoDB: Starting crash recovery from checkpoint LSN=2347502
+2022-04-15 23:41:43 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2022-04-15 23:41:43 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2022-04-15 23:41:43 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2022-04-15 23:41:43 0 [Note] InnoDB: Setting file 'C:\xampp\mysql\data\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2022-04-15 23:41:43 0 [Note] InnoDB: File 'C:\xampp\mysql\data\ibtmp1' size is now 12 MB.
+2022-04-15 23:41:43 0 [Note] InnoDB: 10.4.22 started; log sequence number 2347511; transaction id 4272
+2022-04-15 23:41:43 0 [Note] InnoDB: Loading buffer pool(s) from C:\xampp\mysql\data\ib_buffer_pool
+2022-04-15 23:41:43 0 [Note] Plugin 'FEEDBACK' is disabled.
+2022-04-15 23:41:43 0 [Note] Server socket created on IP: '::'.
+2022-04-16  8:32:13 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2022-04-16  8:32:13 0 [Note] InnoDB: Uses event mutexes
+2022-04-16  8:32:13 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2022-04-16  8:32:13 0 [Note] InnoDB: Number of pools: 1
+2022-04-16  8:32:13 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2022-04-16  8:32:13 0 [Note] InnoDB: Initializing buffer pool, total size = 16M, instances = 1, chunk size = 16M
+2022-04-16  8:32:13 0 [Note] InnoDB: Completed initialization of buffer pool
+2022-04-16  8:32:13 0 [Note] InnoDB: Starting crash recovery from checkpoint LSN=2347536
+2022-04-16  8:32:13 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2022-04-16  8:32:13 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2022-04-16  8:32:13 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2022-04-16  8:32:13 0 [Note] InnoDB: Setting file 'C:\xampp\mysql\data\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2022-04-16  8:32:13 0 [Note] InnoDB: File 'C:\xampp\mysql\data\ibtmp1' size is now 12 MB.
+2022-04-16  8:32:13 0 [Note] InnoDB: Waiting for purge to start
+2022-04-16  8:32:14 0 [Note] InnoDB: 10.4.22 started; log sequence number 2347545; transaction id 4272
+2022-04-16  8:32:14 0 [Note] InnoDB: Loading buffer pool(s) from C:\xampp\mysql\data\ib_buffer_pool
+2022-04-16  8:32:14 0 [Note] Plugin 'FEEDBACK' is disabled.
+2022-04-16  8:32:14 0 [Note] Server socket created on IP: '::'.
+2022-04-16  8:32:19 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2022-04-16  8:32:19 0 [Note] InnoDB: Uses event mutexes
+2022-04-16  8:32:19 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2022-04-16  8:32:19 0 [Note] InnoDB: Number of pools: 1
+2022-04-16  8:32:19 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2022-04-16  8:32:19 0 [Note] InnoDB: Initializing buffer pool, total size = 16M, instances = 1, chunk size = 16M
+2022-04-16  8:32:19 0 [Note] InnoDB: Completed initialization of buffer pool
+2022-04-16  8:32:19 0 [Note] InnoDB: Starting crash recovery from checkpoint LSN=2347536
+2022-04-16  8:32:19 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2022-04-16  8:32:19 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2022-04-16  8:32:19 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2022-04-16  8:32:19 0 [Note] InnoDB: Setting file 'C:\xampp\mysql\data\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2022-04-16  8:32:19 0 [Note] InnoDB: File 'C:\xampp\mysql\data\ibtmp1' size is now 12 MB.
+2022-04-16  8:32:19 0 [Note] InnoDB: Waiting for purge to start
+2022-04-16  8:32:19 0 [Note] InnoDB: 10.4.22 started; log sequence number 2347545; transaction id 4272
+2022-04-16  8:32:19 0 [Note] InnoDB: Loading buffer pool(s) from C:\xampp\mysql\data\ib_buffer_pool
+2022-04-16  8:32:19 0 [Note] Plugin 'FEEDBACK' is disabled.
+2022-04-16  8:32:19 0 [Note] Server socket created on IP: '::'.
+2022-04-16  8:38:26 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2022-04-16  8:38:26 0 [Note] InnoDB: Uses event mutexes
+2022-04-16  8:38:26 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2022-04-16  8:38:26 0 [Note] InnoDB: Number of pools: 1
+2022-04-16  8:38:26 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2022-04-16  8:38:26 0 [Note] InnoDB: Initializing buffer pool, total size = 16M, instances = 1, chunk size = 16M
+2022-04-16  8:38:26 0 [Note] InnoDB: Completed initialization of buffer pool
+2022-04-16  8:38:26 0 [Note] InnoDB: Starting crash recovery from checkpoint LSN=2347554
+2022-04-16  8:38:26 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2022-04-16  8:38:26 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2022-04-16  8:38:26 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2022-04-16  8:38:26 0 [Note] InnoDB: Setting file 'C:\xampp\mysql\data\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2022-04-16  8:38:26 0 [Note] InnoDB: File 'C:\xampp\mysql\data\ibtmp1' size is now 12 MB.
+2022-04-16  8:38:26 0 [Note] InnoDB: Waiting for purge to start
+2022-04-16  8:38:26 0 [Note] InnoDB: 10.4.22 started; log sequence number 2347563; transaction id 4272
+2022-04-16  8:38:26 0 [Note] InnoDB: Loading buffer pool(s) from C:\xampp\mysql\data\ib_buffer_pool
+2022-04-16  8:38:26 0 [Note] Plugin 'FEEDBACK' is disabled.
+2022-04-16  8:38:26 0 [Note] Server socket created on IP: '::'.
+2022-04-16 11:37:49 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2022-04-16 11:37:49 0 [Note] InnoDB: Uses event mutexes
+2022-04-16 11:37:49 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2022-04-16 11:37:49 0 [Note] InnoDB: Number of pools: 1
+2022-04-16 11:37:49 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2022-04-16 11:37:49 0 [Note] InnoDB: Initializing buffer pool, total size = 16M, instances = 1, chunk size = 16M
+2022-04-16 11:37:49 0 [Note] InnoDB: Completed initialization of buffer pool
+2022-04-16 11:37:49 0 [Note] InnoDB: Starting crash recovery from checkpoint LSN=5284013
+2022-04-16 11:37:49 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2022-04-16 11:37:49 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2022-04-16 11:37:49 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2022-04-16 11:37:49 0 [Note] InnoDB: Setting file 'C:\xampp\mysql\data\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2022-04-16 11:37:49 0 [Note] InnoDB: File 'C:\xampp\mysql\data\ibtmp1' size is now 12 MB.
+2022-04-16 11:37:49 0 [Note] InnoDB: Waiting for purge to start
+2022-04-16 11:37:49 0 [Note] InnoDB: 10.4.22 started; log sequence number 5284022; transaction id 6801
+2022-04-16 11:37:49 0 [Note] InnoDB: Loading buffer pool(s) from C:\xampp\mysql\data\ib_buffer_pool
+2022-04-16 11:37:49 0 [Note] Plugin 'FEEDBACK' is disabled.
+2022-04-16 11:37:49 0 [Note] Server socket created on IP: '::'.
+2022-04-16 12:09:41 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2022-04-16 12:09:41 0 [Note] InnoDB: Uses event mutexes
+2022-04-16 12:09:41 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2022-04-16 12:09:41 0 [Note] InnoDB: Number of pools: 1
+2022-04-16 12:09:41 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2022-04-16 12:09:41 0 [Note] InnoDB: Initializing buffer pool, total size = 16M, instances = 1, chunk size = 16M
+2022-04-16 12:09:41 0 [Note] InnoDB: Completed initialization of buffer pool
+2022-04-16 12:09:41 0 [Note] InnoDB: Starting crash recovery from checkpoint LSN=5393022
+2022-04-16 12:09:41 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2022-04-16 12:09:41 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2022-04-16 12:09:41 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2022-04-16 12:09:41 0 [Note] InnoDB: Setting file 'C:\xampp\mysql\data\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2022-04-16 12:09:41 0 [Note] InnoDB: File 'C:\xampp\mysql\data\ibtmp1' size is now 12 MB.
+2022-04-16 12:09:41 0 [Note] InnoDB: Waiting for purge to start
+2022-04-16 12:09:41 0 [Note] InnoDB: 10.4.22 started; log sequence number 5393031; transaction id 7143
+2022-04-16 12:09:41 0 [Note] InnoDB: Loading buffer pool(s) from C:\xampp\mysql\data\ib_buffer_pool
+2022-04-16 12:09:41 0 [Note] Plugin 'FEEDBACK' is disabled.
+2022-04-16 12:09:41 0 [Note] Server socket created on IP: '::'.
+2022-04-16 14:57:41 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2022-04-16 14:57:41 0 [Note] InnoDB: Uses event mutexes
+2022-04-16 14:57:41 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2022-04-16 14:57:41 0 [Note] InnoDB: Number of pools: 1
+2022-04-16 14:57:41 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2022-04-16 14:57:41 0 [Note] InnoDB: Initializing buffer pool, total size = 16M, instances = 1, chunk size = 16M
+2022-04-16 14:57:41 0 [Note] InnoDB: Completed initialization of buffer pool
+2022-04-16 14:57:41 0 [Note] InnoDB: Starting crash recovery from checkpoint LSN=10367805
+2022-04-16 14:57:41 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2022-04-16 14:57:41 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2022-04-16 14:57:41 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2022-04-16 14:57:41 0 [Note] InnoDB: Setting file 'C:\xampp\mysql\data\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2022-04-16 14:57:41 0 [Note] InnoDB: File 'C:\xampp\mysql\data\ibtmp1' size is now 12 MB.
+2022-04-16 14:57:41 0 [Note] InnoDB: Waiting for purge to start
+2022-04-16 14:57:41 0 [Note] InnoDB: 10.4.22 started; log sequence number 10367814; transaction id 8579
+2022-04-16 14:57:41 0 [Note] InnoDB: Loading buffer pool(s) from C:\xampp\mysql\data\ib_buffer_pool
+2022-04-16 14:57:41 0 [Note] Plugin 'FEEDBACK' is disabled.
+2022-04-16 14:57:41 0 [Note] Server socket created on IP: '::'.
+22022-04-16 15:17:59 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2022-04-16 15:17:59 0 [Note] InnoDB: Uses event mutexes
+2022-04-16 15:17:59 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2022-04-16 15:17:59 0 [Note] InnoDB: Number of pools: 1
+2022-04-16 15:17:59 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2022-04-16 15:17:59 0 [Note] InnoDB: Initializing buffer pool, total size = 16M, instances = 1, chunk size = 16M
+2022-04-16 15:17:59 0 [Note] InnoDB: Completed initialization of buffer pool
+2022-04-16 15:17:59 0 [Note] InnoDB: Starting crash recovery from checkpoint LSN=10367823
+2022-04-16 15:17:59 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2022-04-16 15:17:59 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2022-04-16 15:17:59 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2022-04-16 15:17:59 0 [Note] InnoDB: Setting file 'C:\xampp\mysql\data\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2022-04-16 15:17:59 0 [Note] InnoDB: File 'C:\xampp\mysql\data\ibtmp1' size is now 12 MB.
+2022-04-16 15:17:59 0 [Note] InnoDB: Waiting for purge to start
+2022-04-16 15:17:59 0 [Note] InnoDB: 10.4.22 started; log sequence number 10367832; transaction id 8579
+2022-04-16 15:17:59 0 [Note] InnoDB: Loading buffer pool(s) from C:\xampp\mysql\data\ib_buffer_pool
+2022-04-16 15:17:59 0 [Note] Plugin 'FEEDBACK' is disabled.
+2022-04-16 15:17:59 0 [Note] Server socket created on IP: '::'.
+2022-04-16 16:43:36 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2022-04-16 16:43:36 0 [Note] InnoDB: Uses event mutexes
+2022-04-16 16:43:36 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2022-04-16 16:43:36 0 [Note] InnoDB: Number of pools: 1
+2022-04-16 16:43:36 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2022-04-16 16:43:36 0 [Note] InnoDB: Initializing buffer pool, total size = 16M, instances = 1, chunk size = 16M
+2022-04-16 16:43:36 0 [Note] InnoDB: Completed initialization of buffer pool
+2022-04-16 16:43:36 0 [Note] InnoDB: Starting crash recovery from checkpoint LSN=10398091
+2022-04-16 16:43:36 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2022-04-16 16:43:36 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2022-04-16 16:43:36 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2022-04-16 16:43:36 0 [Note] InnoDB: Setting file 'C:\xampp\mysql\data\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2022-04-16 16:43:36 0 [Note] InnoDB: File 'C:\xampp\mysql\data\ibtmp1' size is now 12 MB.
+2022-04-16 16:43:36 0 [Note] InnoDB: Waiting for purge to start
+2022-04-16 16:43:36 0 [Note] InnoDB: 10.4.22 started; log sequence number 10398100; transaction id 8603
+2022-04-16 16:43:36 0 [Note] InnoDB: Loading buffer pool(s) from C:\xampp\mysql\data\ib_buffer_pool
+2022-04-16 16:43:36 0 [Note] Plugin 'FEEDBACK' is disabled.
+2022-04-16 16:43:36 0 [Note] Server socket created on IP: '::'.
